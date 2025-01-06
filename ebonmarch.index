@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Ebonmarch</name>
+		<description>The content from the Ebonmarch setting.</description>
+		<author url="">Billy</author>
+		<update version="0.0.1">
+			<file name="ebonmarch.index" url="https://raw.githubusercontent.com/b-runne/ebonmarch/main/ebonmarch.index" />
+		</update>
+	</info>
+	<files>
+	</files>
+</index>
